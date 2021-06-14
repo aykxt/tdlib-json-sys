@@ -1,0 +1,14 @@
+[package]
+name = "tdlib-json-sys"
+version = "0.1.0"
+authors = ["Aykut Yilmaz <aykuxt@gmail.com>"]
+edition = "2018"
+description = "Bindings to the TDLib (Telegram Database library) JSON API"
+documentation = "https://docs.rs/tdlib-json-sys"
+readme = "README.md"
+repository = "https://github.com/aykxt/tdlib-json-sys"
+license = "MIT"
+keywords = ["bindings", "tdlib", "tdjson"]
+categories = ["external-ffi-bindings"]
+
+[dependencies]
